@@ -10,7 +10,7 @@
 
 <hr>
 
-## URL : <a src="https://peterzam.dev/SearchFlix">https://peterzam.dev/SearchFlix</a>
+## URL : <a src="https://peterzam.dev/SearchFlix/index.html">https://peterzam.dev/SearchFlix</a>
 
 <hr>
 Notice: This project is inspired by <a href="https://chrome.google.com/webstore/detail/findflix-netflix-secret-c/njgopmododdceghkcgbmgfffamnjbjno">FindFlix</a> Chrome Extension
