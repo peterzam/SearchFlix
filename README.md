@@ -12,5 +12,7 @@
 
 ## URL : <a src="https://peterzam.dev/SearchFlix/index.html">https://peterzam.dev/SearchFlix</a>
 
+## For chrome-extension : <a src="https://github.com/peterzam/SearchFlix/tree/extension">Extension Branch</a>
+
 <hr>
 Notice: This project is inspired by <a href="https://chrome.google.com/webstore/detail/findflix-netflix-secret-c/njgopmododdceghkcgbmgfffamnjbjno">FindFlix</a> Chrome Extension
