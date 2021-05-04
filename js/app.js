@@ -1,3 +1,21 @@
+document.addEventListener('DOMContentLoaded', function () {
+  particleground(document.getElementById('particles'), {
+    dotColor: '#E83951',
+    lineColor: '#a8dadc'
+  });
+  var intro = document.getElementById('intro');
+  intro.style.marginTop = - intro.offsetHeight / 2 + 'px';
+}, false);
+
+$(document).ready(function(){
+	$('.skillbar').each(function(){
+		$(this).find('.skillbar-bar').animate({
+			width:$(this).attr('data-percent')
+		},1500);
+	});
+});
+
+
 function addEventListenersToResults(e) {
   var href = e.currentTarget.href;
   chrome.tabs.getSelected(null, function (tab) {
@@ -31,7 +49,7 @@ function csvJSON(csv) {
 $(document).ready(function () {
   $.ajax({
     type: 'GET',
-    url: './data/result.csv',
+    url: 'https://raw.githubusercontent.com/peterzam/SearchFlix/master/extension/src/data/result.csv',
     dataType: 'text',
     success: function (csv) {
       var data = csvJSON(csv);

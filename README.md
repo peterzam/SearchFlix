@@ -10,27 +10,7 @@
 
 <hr>
 
-## Installation
-
-### <u>Install from Chrome Web Store</u>
-
-- Go to chrome web store <a href="https://chrome.google.com/webstore/detail/searchflix-netflix-genres/jdgbainblgdephbianomkogjjdnnjbpn">link(here)</a>
-
-- Add to Chrome
-
-### <u>Manual Install</u>
-
-```
-    git clone https://github.com/peterzam/SearchFlix.git
-```
-
-- go to "chrome://extenstions" in browser
-
-- Open Developer mode
-
-- Load unpacked
-
-- choose git cloned "src" folder
+## URL : <a src="https://peterzam.dev/SearchFlix">https://peterzam.dev/SearchFlix</a>
 
 <hr>
 Notice: This project is inspired by <a href="https://chrome.google.com/webstore/detail/findflix-netflix-secret-c/njgopmododdceghkcgbmgfffamnjbjno">FindFlix</a> Chrome Extension
